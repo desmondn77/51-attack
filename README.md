@@ -1,4 +1,3 @@
-#Vulnerability to 51% attacks
 To prevent 51% attacks, there is a need to understand some things. In a general classification, the key factors for the survival of blockchain networks include the following:
 - Blockchain Technology
 - Social Engineering
