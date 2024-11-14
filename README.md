@@ -9,3 +9,8 @@ However, our study has flaws in this modeling that will definitely affect its re
 - Low number of data (The number of attacks is small)
 - There is not enough information in this field
 - This is a suggested model, not an optimal model
+---
+**Notice:**
+This notebook necessarily presents a basic idea for identifying blockchains at risk, and its modeling lacks compliance with a series of general principles. For example, the dataset used in this model has less than 20 rows, which practically disqualifies it. Such amount of data lacks any value for processing or modeling.
+
+It is noteworthy that as this dataset becomes more complete over time, better modeling will be done.
